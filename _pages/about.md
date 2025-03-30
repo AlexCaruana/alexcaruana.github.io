@@ -13,10 +13,10 @@ I completed my dual master's degree in Sustainable Forest and Nature Management,
 
 My research focuses on advancing the understanding of whether global conservation initiatives and policies achieve their intended impacts, using rigorous causal inference and counterfactual methods. By identifying gaps in how conservation initiatives are evaluated, I aim to strengthen the evidence base for effective conservation decision-making. I am currently working on two main projects: 
 
-* Systematic Mapping of Causal Inference in Conservation
+* Systematic Mapping of Causal Inference in Conservation\
 I am leading a comprehensive systematic map of conservation impact evaluations, to assess how counterfactual approaches are applied. This project maps the geographic distribution of studies, the types of conservation interventions analysed (e.g., protected areas, community-based programs, REDD+), and the extent to which researchers explicitly address causal assumptions. This study will generate a comprehensive dataset of applied counterfactual approaches in conservation.
 
-* Core causal assumptions and counterfactual robustness
+* Core causal assumptions and counterfactual robustness\
 I am examining the core assumptions underpinning counterfactual approaches in conservation science. By using  sensitivity testing, a statistical tool to quantify how hidden confounders could alter causal claims, my work aims to improve the transparency and reliability of causal findings in conservation policy.
 
 If you're also interested in this area, do feel free to get in touch!
