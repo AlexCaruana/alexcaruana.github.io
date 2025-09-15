@@ -11,6 +11,8 @@ redirect_from:
 Welcome! I am a DPhil student at University of Oxford's [Interdisciplinary Centre for Conservation Science](https://iccs.org.uk/), supervised by Professor [Joseph Bull](https://www.biology.ox.ac.uk/people/joseph-bull) and funded through Oxford's [Clarendon Scholarship](https://www.ox.ac.uk/clarendon). Prior to joining Prof. Bull's lab,
 I completed my dual master's degree in Sustainable Forest and Nature Management, specialized in Conservation Biology at the [University of Copenhagen](https://studies.ku.dk/masters/sustainable-forest-and-nature-management/) and [Bangor University](https://www.bangor.ac.uk/courses/postgraduate-taught/sustainable-forest-and-nature-management-sufonama-erasmus-mundus-course), supervised by Professor [Julia P. G. Jones](https://www.bangor.ac.uk/staff/sens/julia-patricia-gordon-jones-010356/en). I obtained my bachelor's degree in Environmental Engineering from Malta's College of Arts, Science and Technology.
 
+I am also a board member of the [Society for Conservation Biology's Impact Evaluation Working Group](https://scb-impact.org/about/), where I co-manage the [virtual seminar series](https://scb-impact.org/seminar-series/) as well as take care of web development and management duties.
+
 My research focuses on advancing the understanding of whether global conservation initiatives and policies achieve their intended impacts, using rigorous causal inference and counterfactual methods. By identifying gaps in how conservation initiatives are evaluated, I aim to strengthen the evidence base for effective conservation decision-making. I am currently working on two main projects: 
 
 * Systematic Mapping of Causal Inference in Conservation\
