@@ -21,4 +21,4 @@ I am conducting a comprehensive systematic map of conservation impact evaluation
 * Core causal assumptions and counterfactual robustness\
 I am examining the core assumptions underpinning counterfactual approaches in conservation science. By using  sensitivity testing, a statistical tool to quantify how hidden confounders could alter causal claims, my work aims to improve the transparency and reliability of causal findings in conservation policy.
 
-If you're also interested in this area, do feel free to get in touch!
+If you're also interested in this area, do feel free to get in touch
