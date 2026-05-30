@@ -26,6 +26,9 @@ Publications
 
 [1] Shackelford, N., [and 76 others, including **Caruana, A.**] et. al. 2021. Drivers of seedling establishment success in dryland restoration efforts. Nature Ecology and Evolution. [https://www.nature.com/articles/s41559-021-01510-3](https://www.nature.com/articles/s41559-021-01510-3)
 
+## Pre-Prints:
+[1] **Caruana A**, Bull J, Ferraro P, Wauchope H, Christie, A, Jones JPG. 2026. Still Money for Nothing? Two Decades of Empirical Evaluation of Conservation Investments. [https://doi.org/10.32942/X2C383](https://doi.org/10.32942/X2C383)
+
 ## Reports:
 [1] **Caruana A**, Farrugia L. 2023. Assessment of Red Swamp Crayfish presence, distribution and abundance within the Fiddien valley system. Pages 1–53. Applied Ecological Resources. [https://www.britishecologicalsociety.org/applied-ecology-resources/document/20240157815/](https://www.britishecologicalsociety.org/applied-ecology-resources/document/20240157815/)
 
