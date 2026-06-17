@@ -16,4 +16,4 @@ Three weeks ago, I had the extraordinary opportunity to present our research on 
 \
 As my first conservation-focused conference, ICCB2025 was amazing—scientists, practitioners, policymakers, and funders, all driven by a shared mission to safeguard biodiversity, gathered in one place. In our symposium alone, hundreds attended to explore the future of impact evaluation in conservation. Beyond formal presentations, both our forum (on current challenges in counterfactual evaluations) and our working group meetings were immensely successful.\
 \
-One thing has become clear since the conference ended: *impact evaluation* in conservation science is no longer niche. It’s rapidly gaining traction worldwide, and I hope this momentum continues at future conservation conferences.\
+One thing has become clear since the conference ended: *impact evaluation* in conservation science is no longer niche. It’s rapidly gaining traction worldwide, and I hope this momentum continues at future conservation conferences.
