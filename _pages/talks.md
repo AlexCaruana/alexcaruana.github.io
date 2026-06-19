@@ -18,6 +18,18 @@ author_profile: true
 
 Talks
 ======
+**4. Society for Conservation Biology’s European Congress for Conservation Biology (ECCB), 2026**\
+*July, 2026*\
+**The state of reproducibility within Conservation Science impact evaluations**.\
+**Alex Caruana,**<sup>1</sup>, Julia P. G. Jones <sup>2,3</sup>, Joseph W. Bull<sup>1</sup><br />
+<sup>1</sup>University of Oxford, <sup>2</sup>Bangor University, <sup>3</sup>Utrecht University
+
+**3. Society for Conservation Biology’s 6th Conservation Asia Congress (CAC) - Nepal, 2026**\
+*June, 2026*\
+**Are we comparing apples to oranges? The challenge of evaluation conservation programs and policies**.\
+**Alex Caruana,**<sup>1</sup>, Julia P. G. Jones <sup>2,3</sup>, Joseph W. Bull<sup>1</sup><br />
+<sup>1</sup>University of Oxford, <sup>2</sup>Bangor University, <sup>3</sup>Utrecht University
+
 **2. SCB's 32nd International Congress for Conservation Biology (ICCB 2025)**\
 *June, 2025*\
 **The core assumptions of causal inference**.\
